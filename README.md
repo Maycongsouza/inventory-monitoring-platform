@@ -1,1 +1,1 @@
-# smart_stock_monitor
+# Inventory Monitoring Platform
